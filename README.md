@@ -143,7 +143,7 @@ Eventualmente, posso utilizar outras linguagens para comparar diferentes impleme
 ## 📈 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcode.com/settings/profile/" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/bygiovana?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats">
 </p>
 
 > Substitua `SEU_USUARIO_LEETCODE` pelo seu username do LeetCode.
