@@ -146,8 +146,6 @@ Eventualmente, posso utilizar outras linguagens para comparar diferentes impleme
   <img src="https://leetcard.jacoblin.cool/bygiovana?theme=dark&font=JetBrains%20Mono" alt="LeetCode Stats">
 </p>
 
-> Substitua `SEU_USUARIO_LEETCODE` pelo seu username do LeetCode.
-
 ---
 
 ## 📚 Aprendizados
