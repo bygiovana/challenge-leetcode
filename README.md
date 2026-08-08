@@ -1,4 +1,4 @@
-# 🧩 LeetCode Challenge
+# LeetCode Challenge
 
 <p align="center">
   <img src="media/leetcode-challenge.png" alt="LeetCode Challenge" width="500">
